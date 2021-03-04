@@ -370,9 +370,8 @@
 
         // ---------------------------------------------------
         //$_SESSION
-
-        $_SESSION["name"] = "Panatwit";
-        $_SESSION["age"] = 21;
+        //$_SESSION["name"] = "Panatwit";
+        //$_SESSION["age"] = 21;
 
 
 
